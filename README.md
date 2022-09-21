@@ -25,7 +25,7 @@ Será solicitado o caminho absoluto do aquivo requirements.txt. Use o `pwd` (lin
 
 Dever ser informado algo como:
 
-*/home/meu-usuario/apps/tantalo*
+*/home/meu-usuario/apps/requirements.txt*
 
 
 ### Autor
